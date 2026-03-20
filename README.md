@@ -1,4 +1,4 @@
-# Chatbot Support for Website Using Azure AI services 
+# Azure-Based Intelligent Chatbot for Automated Query Processing 
 *azure-chatbot*
 | &nbsp; | &nbsp; |
 | --- | ----------- |
